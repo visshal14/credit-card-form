@@ -6,6 +6,8 @@ This project is a credit card form built using React, Vite, and TailwindCSS. It 
 
 The form is deployed and accessible at: [https://credit-card-form-8792c.web.app/](https://credit-card-form-8792c.web.app/)
 
+**Recommended Browser:** Google Chrome
+
 ## Features
 
 - **Dynamic Credit Card UI**: The credit card updates in real-time as users input their card details.
